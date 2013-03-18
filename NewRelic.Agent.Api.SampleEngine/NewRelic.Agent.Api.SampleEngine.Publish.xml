@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\Project\Tryouts\NewRelicSampleSite" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/NewRelic.Agent.Api.Pusher.pdb" publishTime="03/18/2013 15:43:57" />
+    <file relUrl="bin/NewRelic.SampleEngine.Exceptions.dll" publishTime="03/18/2013 15:43:57" />
+    <file relUrl="bin/NewRelic.Api.Agent.dll" publishTime="03/07/2013 20:54:44" />
+    <file relUrl="bin/NewRelic.SampleEngine.Exceptions.pdb" publishTime="03/18/2013 15:43:57" />
+    <file relUrl="Web.config" publishTime="03/18/2013 15:44:03" />
+    <file relUrl="bin/NewRelic.SampleEngine.Logging.pdb" publishTime="03/18/2013 15:43:57" />
+    <file relUrl="bin/NewRelic.SampleEngine.Logging.dll" publishTime="03/18/2013 15:43:57" />
+    <file relUrl="bin/NewRelic.Agent.Api.Pusher.dll" publishTime="03/18/2013 15:43:57" />
+    <file relUrl="Global.asax" publishTime="03/18/2013 14:27:46" />
+    <file relUrl="bin/NewRelic.Agent.Api.SampleEngine.dll" publishTime="03/18/2013 15:43:58" />
+    <file relUrl="bin/NewRelic.Agent.Api.SampleEngine.pdb" publishTime="03/18/2013 15:43:58" />
+  </publishProfile>
+</publishData>
